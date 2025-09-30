@@ -6,67 +6,67 @@
 
 const perguntas = [
     {
-        enunciado: "Pergunta?",
+        enunciado: "Qual é a principal vantagem da diversidade cultural em uma sociedade?",
         alternativas: [
             {
-                texto: " Texto/resposta",
-                afirmacao: " Afirmação ",
+                texto: "Promove o respeito e a compreensão entre diferentes grupos.",
+                afirmacao: "A diversidade cultural enriquece a convivência ao estimular o diálogo e a troca de experiências.",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Pode causar conflitos por diferenças de costumes.",
+                afirmacao: "Diferenças culturais podem gerar desafios, mas são oportunidades para aprendizado e crescimento.",
             }
         ]
     },
     {
-        enunciado: " Pergunta?",
+        enunciado: "O que a diversidade cultural pode contribuir para a economia de um país?",
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Estimula a inovação e a criatividade nos negócios.",
+                afirmacao: "Ambientes culturalmente diversos tendem a gerar ideias mais inovadoras e soluções criativas.",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Pode dificultar a comunicação entre trabalhadores.",
+                afirmacao: "A diversidade exige adaptação, mas também promove novas formas de colaboração.",
             }
         ]
     },
     {
-        enunciado: " Pergunta?",
+        enunciado: "Como a diversidade cultural influencia a educação?",
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Enriquece o currículo com diferentes perspectivas e histórias.",
+                afirmacao: "Incluir culturas diversas amplia o entendimento e valoriza a pluralidade social.",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Pode causar dificuldades na padronização dos conteúdos.",
+                afirmacao: "A diversidade apresenta desafios que podem ser superados com metodologias inclusivas.",
             }
         ]
     },
     {
-        enunciado: " Pergunta?",
+        enunciado: "Qual o impacto da diversidade cultural nas artes?",
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Gera uma maior variedade de expressões artísticas.",
+                afirmacao: "A diversidade cultural amplia a riqueza artística ao trazer novas influências e técnicas.",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Pode criar dificuldades para definir estilos artísticos tradicionais.",
+                afirmacao: "A mistura de culturas pode transformar e renovar estilos, ampliando seu alcance.",
             }
         ]
     },
     {
-        enunciado: " Pergunta?",
+        enunciado: "Qual é um desafio comum enfrentado em sociedades culturalmente diversas?",
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: "Afirmação",
+                texto: "Preconceito e discriminação entre grupos.",
+                afirmacao: "O preconceito é um obstáculo que pode ser combatido com educação e diálogo intercultural.",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Maior resistência a mudanças sociais.",
+                afirmacao: "A diversidade também pode incentivar adaptações positivas nas estruturas sociais.",
             }
         ]
     },
